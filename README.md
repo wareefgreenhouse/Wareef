@@ -76,6 +76,4 @@ The developed models demonstrate strong performance across tasks:
 
 This project is developed as a senior graduation project and is aligned with sustainable agriculture initiatives and Saudi Arabia’s Vision 2030. It aims to provide a scalable and resource-efficient solution for greenhouse management in water-scarce environments.
 
-## Notes
 
-This repository contains research, experimentation, and system components developed during the project lifecycle. Some components are presented as prototypes and may require further optimization for full-scale deployment.
