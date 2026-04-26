@@ -24,7 +24,7 @@ The repository follows a modular design to support scalability and maintainabili
 - models/: Trained models and model artifacts
 - datasets/: Dataset descriptions and external data access instructions
 - notebooks/: Experimental workflows and prototyping
-- docs/: Project documentation and supporting materials
+
 
 ## Methodology
 
